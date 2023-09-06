@@ -1,0 +1,9 @@
+{
+    "url": "https://err0rtic.github.io/swagger-xss/test.yaml",
+    "urls": [
+        {
+            "url": "https://err0rtic.github.io/swagger-xss/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
